@@ -7,10 +7,11 @@
 
 An interactive web application that uses machine learning to predict the extreme poverty rate of a country based on key economic indicators. The app features both a live mode, which fetches data from the World Bank API, and a manual mode for "what-if" scenario analysis.
 
-## Live Demo 
+## Live Demo
 
-![App Demo](https://sdg-1-week-2-mous5x6bgcjskr8rhreiik.streamlit.app/) 
+[Live Demo of the App](https://sdg-1-week-2-mous5x6bgcjskr8rhreiik.streamlit.app/)  
 *A live demonstration of the app's dual-mode prediction capabilities.*
+
 
 ## Key Features
 
