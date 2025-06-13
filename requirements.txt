@@ -4,5 +4,5 @@ pandas
 matplotlib
 seaborn
 requests
-sklearn
-numpy
+numpy==1.23.5
+scikit-learn==1.6.1
