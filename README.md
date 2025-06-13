@@ -9,7 +9,7 @@ An interactive web application that uses machine learning to predict the extreme
 
 ## Live Demo 
 
-![App Demo GIF](https://sdg-1-week-2-mous5x6bgcjskr8rhreiik.streamlit.app/) 
+![App Demo](https://sdg-1-week-2-mous5x6bgcjskr8rhreiik.streamlit.app/) 
 *A live demonstration of the app's dual-mode prediction capabilities.*
 
 ## Key Features
