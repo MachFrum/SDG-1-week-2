@@ -18,6 +18,11 @@ An interactive web application that uses machine learning to predict the extreme
 [A blog on the App's_Findings](https://machfrum.github.io/SDG-1-week-2/)  
 *A blog on the app's dual-mode prediction capabilities and how inflation is a hidden tax to humanity.*
 
+## Visual representaion and call to action
+
+[This is a presentaion of_the_App's_Evolution_and Growth](https://gamma.app/docs/The-Hidden-Tax-How-Inflation-Impacts-Global-Poverty-nhc0xjd0ryyfzk1)  
+*The Hidden Tax: How Inflation Impacts Global Poverty.*
+
 ## Key Features
 
 - **Dual Prediction Modes:**
