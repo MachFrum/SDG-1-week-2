@@ -13,6 +13,10 @@ An interactive web application that uses machine learning to predict the extreme
 [Live Demo of the App](https://sdg-1-week-2-mous5x6bgcjskr8rhreiik.streamlit.app/)  
 *A live demonstration of the app's dual-mode prediction capabilities.*
 
+## Blog
+
+[Live blog of the App](https://machfrum.github.io/SDG-1-week-2/)  
+*A blog on the app's dual-mode prediction capabilities and how inflation is a hidden tax to humanity.*
 
 ## Key Features
 
