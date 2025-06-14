@@ -1,9 +1,10 @@
 # Predicting Economic Poverty with Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-red.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3%2B-orange.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.6.1%2B-orange.svg)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green.svg)
+![Numpy](https://img.shields.io/badge/Numpy-1.23.5%2B-purple.svg)
 
 An interactive web application that uses machine learning to predict the extreme poverty rate of a country based on key economic indicators. The app features both a live mode, which fetches data from the World Bank API, and a manual mode for "what-if" scenario analysis.
 
