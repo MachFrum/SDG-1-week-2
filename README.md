@@ -20,7 +20,7 @@ An interactive web application that uses machine learning to predict the extreme
 
 ## Visual representaion and call to action
 
-[This is a presentaion of_the_App's_Evolution_and Growth](https://gamma.app/docs/The-Hidden-Tax-How-Inflation-Impacts-Global-Poverty-nhc0xjd0ryyfzk1)  
+[This is a presentaion of the App's Evolution and Growth](https://gamma.app/docs/The-Hidden-Tax-How-Inflation-Impacts-Global-Poverty-nhc0xjd0ryyfzk1)  
 *The Hidden Tax: How Inflation Impacts Global Poverty.*
 
 ## Key Features
