@@ -15,7 +15,7 @@ An interactive web application that uses machine learning to predict the extreme
 
 ## Blog
 
-[Live blog of the App](https://machfrum.github.io/SDG-1-week-2/)  
+[A blog on the App's_Findings](https://machfrum.github.io/SDG-1-week-2/)  
 *A blog on the app's dual-mode prediction capabilities and how inflation is a hidden tax to humanity.*
 
 ## Key Features
