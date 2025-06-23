@@ -139,6 +139,15 @@ The application provides three key pieces of information:
 
 ---
 
+## Group 29 members
+
+1. Peter Macharia - GL
+2. Yvette Jane Lando - GM
+3. Magdalene Thuo - GM
+4. Njeri Macharia - GM
+
+---
+
 ## License.
 - **This is for learning purposes** Tweak, improve, change. Have fun!
 
